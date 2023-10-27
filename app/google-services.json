@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "11693598388",
+    "project_id": "lora-v2-402906",
+    "storage_bucket": "lora-v2-402906.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11693598388:android:c58a41d0b69b4664e0d9e1",
+        "android_client_info": {
+          "package_name": "com.example.lorav21"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHZ1X3Usjsm2dvR-ukt4uHCJYbDJ7RXZY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
